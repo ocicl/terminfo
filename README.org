@@ -1,0 +1,10 @@
+* terminfo
+
+A terminfo database front end in Common Lisp.  Based on terminfo by Paul Foley.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/npatrick04/terminfo.git   |
+| commit  | b8b2e3e  |
+| systems | terminfo |
+|---------+-------------------------------------------|
+
